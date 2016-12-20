@@ -1,0 +1,5 @@
+*.zip
+test*
+.metadata
+RemoteSystemsTempFiles
+Debug
