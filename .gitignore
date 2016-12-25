@@ -3,3 +3,4 @@ test*
 .metadata
 RemoteSystemsTempFiles
 Debug
+nucleo-l476rg_hal_lib
